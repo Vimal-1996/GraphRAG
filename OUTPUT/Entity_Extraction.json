@@ -1,0 +1,489 @@
+[
+    {
+        "doc_id": "DOC_08b692",
+        "source_file": "Company Overview.txt",
+        "entities": {
+            "people": [
+                {
+                    "entity_id": "PER_25313c",
+                    "title": "CEO",
+                    "name": "Sarah Chen",
+                    "type": "Person",
+                    "source_doc": "DOC_08b692"
+                },
+                {
+                    "entity_id": "PER_690b1b",
+                    "title": "CTO",
+                    "name": "Marcus Rodriguez",
+                    "type": "Person",
+                    "source_doc": "DOC_08b692"
+                }
+            ],
+            "organizations": [
+                {
+                    "entity_id": "ORG_ad36da",
+                    "name": "TechVision",
+                    "type": "Organization",
+                    "source_doc": "DOC_08b692"
+                },
+                {
+                    "entity_id": "ORG_2a71c2",
+                    "name": "Google AI",
+                    "type": "Organization",
+                    "source_doc": "DOC_08b692"
+                },
+                {
+                    "entity_id": "ORG_521cd2",
+                    "name": "Amazon Web Services",
+                    "type": "Organization",
+                    "source_doc": "DOC_08b692"
+                },
+                {
+                    "entity_id": "ORG_b40feb",
+                    "name": "Sequoia Capital",
+                    "type": "Organization",
+                    "source_doc": "DOC_08b692"
+                },
+                {
+                    "entity_id": "ORG_848c10",
+                    "name": "Andreessen Horowitz",
+                    "type": "Organization",
+                    "source_doc": "DOC_08b692"
+                }
+            ],
+            "products": [
+                {
+                    "entity_id": "PRO_6ef538",
+                    "name": "MediScan AI",
+                    "type": "Product",
+                    "source_doc": "DOC_08b692"
+                }
+            ],
+            "locations": [
+                {
+                    "entity_id": "LOC_707e93",
+                    "name": "San Francisco, California",
+                    "type": "City, State",
+                    "source_doc": "DOC_08b692"
+                }
+            ]
+        }
+    },
+    {
+        "doc_id": "DOC_f23927",
+        "source_file": "Competetive Landscape.txt",
+        "entities": {
+            "people": [
+                {
+                    "entity_id": "PER_b10675",
+                    "title": "CTO",
+                    "name": "Marcus Rodriguez",
+                    "type": "Person",
+                    "source_doc": "DOC_f23927"
+                }
+            ],
+            "organizations": [
+                {
+                    "entity_id": "ORG_b35dd8",
+                    "name": "TechVision",
+                    "type": "Organization",
+                    "source_doc": "DOC_f23927"
+                },
+                {
+                    "entity_id": "ORG_06a091",
+                    "name": "MedAI Solutions",
+                    "type": "Organization",
+                    "source_doc": "DOC_f23927"
+                },
+                {
+                    "entity_id": "ORG_a3ba56",
+                    "name": "DiagnosticAI Corp",
+                    "type": "Organization",
+                    "source_doc": "DOC_f23927"
+                },
+                {
+                    "entity_id": "ORG_a3ca87",
+                    "name": "IBM",
+                    "type": "Organization",
+                    "source_doc": "DOC_f23927"
+                },
+                {
+                    "entity_id": "ORG_45493e",
+                    "name": "SoftBank Vision Fund",
+                    "type": "Organization",
+                    "source_doc": "DOC_f23927"
+                }
+            ],
+            "products": [
+                {
+                    "entity_id": "PRO_809627",
+                    "name": "MedAssist",
+                    "type": "Product",
+                    "source_doc": "DOC_f23927"
+                },
+                {
+                    "entity_id": "PRO_db9d23",
+                    "name": "MediScan AI",
+                    "type": "Product",
+                    "source_doc": "DOC_f23927"
+                }
+            ],
+            "locations": []
+        }
+    },
+    {
+        "doc_id": "DOC_810178",
+        "source_file": "Leadership Changes.txt",
+        "entities": {
+            "people": [
+                {
+                    "entity_id": "PER_0a8e19",
+                    "title": "Chief Revenue Officer",
+                    "name": "Michael Zhang",
+                    "type": "Person",
+                    "source_doc": "DOC_810178"
+                },
+                {
+                    "entity_id": "PER_70cb0d",
+                    "title": "CEO",
+                    "name": "Sarah Chen",
+                    "type": "Person",
+                    "source_doc": "DOC_810178"
+                },
+                {
+                    "entity_id": "PER_95ff26",
+                    "title": "Vice President of Engineering",
+                    "name": "Lisa Thompson",
+                    "type": "Person",
+                    "source_doc": "DOC_810178"
+                }
+            ],
+            "organizations": [
+                {
+                    "entity_id": "ORG_ed62e0",
+                    "name": "TechVision",
+                    "type": "Organization",
+                    "source_doc": "DOC_810178"
+                },
+                {
+                    "entity_id": "ORG_7c5f48",
+                    "name": "Salesforce",
+                    "type": "Organization",
+                    "source_doc": "DOC_810178"
+                },
+                {
+                    "entity_id": "ORG_aa1cdb",
+                    "name": "MediScan AI",
+                    "type": "Organization",
+                    "source_doc": "DOC_810178"
+                }
+            ],
+            "products": [
+                {
+                    "entity_id": "PRO_d18329",
+                    "name": "MediScan AI",
+                    "type": "Product",
+                    "source_doc": "DOC_810178"
+                }
+            ],
+            "locations": [
+                {
+                    "entity_id": "LOC_7c971f",
+                    "name": "European",
+                    "type": "Continent",
+                    "source_doc": "DOC_810178"
+                },
+                {
+                    "entity_id": "LOC_850d03",
+                    "name": "Asian",
+                    "type": "Continent",
+                    "source_doc": "DOC_810178"
+                }
+            ]
+        }
+    },
+    {
+        "doc_id": "DOC_92fa3a",
+        "source_file": "Market Expansion.txt",
+        "entities": {
+            "people": [
+                {
+                    "entity_id": "PER_b03e60",
+                    "title": "Managing Director of European Operations",
+                    "name": "Emma Wilson",
+                    "type": "Person",
+                    "source_doc": "DOC_92fa3a"
+                },
+                {
+                    "entity_id": "PER_84330f",
+                    "title": "CRO",
+                    "name": "Michael Zhang",
+                    "type": "Person",
+                    "source_doc": "DOC_92fa3a"
+                }
+            ],
+            "organizations": [
+                {
+                    "entity_id": "ORG_bccba8",
+                    "name": "TechVision",
+                    "type": "Organization",
+                    "source_doc": "DOC_92fa3a"
+                },
+                {
+                    "entity_id": "ORG_c9b060",
+                    "name": "DeepMind",
+                    "type": "Organization",
+                    "source_doc": "DOC_92fa3a"
+                },
+                {
+                    "entity_id": "ORG_d93034",
+                    "name": "European Medicines Agency",
+                    "type": "Organization",
+                    "source_doc": "DOC_92fa3a"
+                }
+            ],
+            "products": [
+                {
+                    "entity_id": "PRO_fa03e9",
+                    "name": "MediScan AI",
+                    "type": "Product",
+                    "source_doc": "DOC_92fa3a"
+                }
+            ],
+            "locations": [
+                {
+                    "entity_id": "LOC_7db279",
+                    "name": "London",
+                    "type": "City",
+                    "source_doc": "DOC_92fa3a"
+                },
+                {
+                    "entity_id": "LOC_b2980e",
+                    "name": "European Union",
+                    "type": "Political Union",
+                    "source_doc": "DOC_92fa3a"
+                },
+                {
+                    "entity_id": "LOC_2e72f4",
+                    "name": "UK",
+                    "type": "Country",
+                    "source_doc": "DOC_92fa3a"
+                },
+                {
+                    "entity_id": "LOC_0702ab",
+                    "name": "Germany",
+                    "type": "Country",
+                    "source_doc": "DOC_92fa3a"
+                },
+                {
+                    "entity_id": "LOC_b4b160",
+                    "name": "France",
+                    "type": "Country",
+                    "source_doc": "DOC_92fa3a"
+                }
+            ]
+        }
+    },
+    {
+        "doc_id": "DOC_4e0628",
+        "source_file": "Partnership Announcement.txt",
+        "entities": {
+            "people": [
+                {
+                    "entity_id": "PER_f3e6a9",
+                    "title": "Dr.",
+                    "name": "Jennifer Liu",
+                    "type": "Person",
+                    "source_doc": "DOC_4e0628"
+                }
+            ],
+            "organizations": [
+                {
+                    "entity_id": "ORG_48d22c",
+                    "name": "TechVision",
+                    "type": "Organization",
+                    "source_doc": "DOC_4e0628"
+                },
+                {
+                    "entity_id": "ORG_fcadc2",
+                    "name": "HealthCorp International",
+                    "type": "Organization",
+                    "source_doc": "DOC_4e0628"
+                }
+            ],
+            "products": [
+                {
+                    "entity_id": "PRO_2ab224",
+                    "name": "MediScan AI",
+                    "type": "Product",
+                    "source_doc": "DOC_4e0628"
+                }
+            ],
+            "locations": [
+                {
+                    "entity_id": "LOC_2604a4",
+                    "name": "United States",
+                    "type": "Country",
+                    "source_doc": "DOC_4e0628"
+                }
+            ]
+        }
+    },
+    {
+        "doc_id": "DOC_e5200b",
+        "source_file": "Product Launch.txt",
+        "entities": {
+            "people": [
+                {
+                    "entity_id": "PER_45dbe5",
+                    "title": "Dr.",
+                    "name": "Aisha Patel",
+                    "type": "Person",
+                    "source_doc": "DOC_e5200b"
+                }
+            ],
+            "organizations": [
+                {
+                    "entity_id": "ORG_0e185f",
+                    "name": "TechVision",
+                    "type": "Organization",
+                    "source_doc": "DOC_e5200b"
+                },
+                {
+                    "entity_id": "ORG_89476c",
+                    "name": "JPMorgan Chase",
+                    "type": "Organization",
+                    "source_doc": "DOC_e5200b"
+                },
+                {
+                    "entity_id": "ORG_25dd6b",
+                    "name": "Regional Bank of America",
+                    "type": "Organization",
+                    "source_doc": "DOC_e5200b"
+                },
+                {
+                    "entity_id": "ORG_4fafc6",
+                    "name": "Global Payment Systems",
+                    "type": "Organization",
+                    "source_doc": "DOC_e5200b"
+                },
+                {
+                    "entity_id": "ORG_a5622a",
+                    "name": "Cybersecurity Labs International",
+                    "type": "Organization",
+                    "source_doc": "DOC_e5200b"
+                }
+            ],
+            "products": [
+                {
+                    "entity_id": "PRO_fc4625",
+                    "name": "FinanceGuard",
+                    "type": "Product",
+                    "source_doc": "DOC_e5200b"
+                }
+            ],
+            "locations": []
+        }
+    },
+    {
+        "doc_id": "DOC_df7f48",
+        "source_file": "Research Collaboration.txt",
+        "entities": {
+            "people": [
+                {
+                    "entity_id": "PER_ec9ad2",
+                    "title": "Professor",
+                    "name": "Professor David Kim",
+                    "type": "Person",
+                    "source_doc": "DOC_df7f48"
+                },
+                {
+                    "entity_id": "PER_5a55e4",
+                    "title": "Dr.",
+                    "name": "Rachel Martinez",
+                    "type": "Person",
+                    "source_doc": "DOC_df7f48"
+                },
+                {
+                    "entity_id": "PER_2fb556",
+                    "title": "",
+                    "name": "Sarah Chen",
+                    "type": "Person",
+                    "source_doc": "DOC_df7f48"
+                }
+            ],
+            "organizations": [
+                {
+                    "entity_id": "ORG_ad4913",
+                    "name": "TechVision",
+                    "type": "Organization",
+                    "source_doc": "DOC_df7f48"
+                },
+                {
+                    "entity_id": "ORG_59fc09",
+                    "name": "Stanford University's AI Lab",
+                    "type": "Organization",
+                    "source_doc": "DOC_df7f48"
+                },
+                {
+                    "entity_id": "ORG_b02656",
+                    "name": "Massachusetts General Hospital",
+                    "type": "Organization",
+                    "source_doc": "DOC_df7f48"
+                }
+            ],
+            "products": [],
+            "locations": []
+        }
+    },
+    {
+        "doc_id": "DOC_ed2428",
+        "source_file": "Technology Partnership.txt",
+        "entities": {
+            "people": [
+                {
+                    "entity_id": "PER_fe4fee",
+                    "title": "VP of Healthcare Solutions at CloudTech",
+                    "name": "Kevin Park",
+                    "type": "Person",
+                    "source_doc": "DOC_ed2428"
+                }
+            ],
+            "organizations": [
+                {
+                    "entity_id": "ORG_d23544",
+                    "name": "CloudTech",
+                    "type": "Organization",
+                    "source_doc": "DOC_ed2428"
+                },
+                {
+                    "entity_id": "ORG_215f9e",
+                    "name": "TechVision Inc",
+                    "type": "Organization",
+                    "source_doc": "DOC_ed2428"
+                }
+            ],
+            "products": [
+                {
+                    "entity_id": "PRO_c44014",
+                    "name": "CloudTech's HIPAA-compliant cloud platform",
+                    "type": "Product",
+                    "source_doc": "DOC_ed2428"
+                },
+                {
+                    "entity_id": "PRO_d0c5cf",
+                    "name": "TechVision's MediScan AI",
+                    "type": "Product",
+                    "source_doc": "DOC_ed2428"
+                },
+                {
+                    "entity_id": "PRO_e64c62",
+                    "name": "CloudTech's marketplace",
+                    "type": "Product",
+                    "source_doc": "DOC_ed2428"
+                }
+            ],
+            "locations": []
+        }
+    }
+]

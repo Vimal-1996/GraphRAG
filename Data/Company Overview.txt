@@ -1,0 +1,7 @@
+TechVision Inc., founded in 2015 by Sarah Chen and Marcus Rodriguez, is a leading artificial intelligence company headquartered in San Francisco, California. The company specializes in developing enterprise AI solutions for healthcare and finance sectors.
+
+Sarah Chen, the current CEO, previously worked as a senior researcher at Google AI. Marcus Rodriguez, the CTO, has a background in distributed systems from his time at Amazon Web Services.
+
+TechVision's flagship product, MediScan AI, uses computer vision to analyze medical imaging data. The product was launched in 2018 and has been adopted by over 200 hospitals across North America. MediScan AI achieved FDA approval in 2019.
+
+In 2022, TechVision raised $150 million in Series C funding led by Sequoia Capital and Andreessen Horowitz. The company's valuation reached $1.2 billion, achieving unicorn status.

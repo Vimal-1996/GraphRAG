@@ -1,0 +1,15 @@
+CREATE CONSTRAINT person_id IF NOT EXISTS
+FOR (p:Person)
+REQUIRE p.entity_id IS UNIQUE;
+
+CREATE CONSTRAINT org_id IF NOT EXISTS
+FOR (o:Organization)
+REQUIRE o.entity_id IS UNIQUE;
+
+CREATE CONSTRAINT product_id IF NOT EXISTS
+FOR (p:Product)
+REQUIRE p.entity_id IS UNIQUE;
+
+CREATE CONSTRAINT location_id IF NOT EXISTS
+FOR (l:Location)
+REQUIRE l.entity_id IS UNIQUE;

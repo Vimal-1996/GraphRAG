@@ -1,0 +1,38 @@
+Person
+- id
+- name
+- title (CEO, CTO, Dr., etc.)
+
+Organization
+- id
+- name
+- type (Company | University | Hospital | Bank)
+
+Product
+- id
+- name
+- domain (AI, FinTech, HealthTech, etc.)
+
+Location
+- id
+- name
+- type (City | State | Country)
+
+FOUNDED
+Person → Organization
+
+WORKS_FOR
+Person → Organization
+(properties: role)
+
+PREVIOUSLY_WORKED_AT
+Person → Organization
+
+PARTNERED_WITH
+Organization ↔ Organization
+
+DEVELOPED
+Organization → Product
+
+LOCATED_IN
+Organization → Location

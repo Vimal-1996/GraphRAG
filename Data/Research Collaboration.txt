@@ -1,0 +1,11 @@
+**Academic News - April 3, 2024**
+
+TechVision Inc. has entered into a research collaboration with Stanford University's AI Lab and Massachusetts General Hospital to develop next-generation diagnostic AI tools.
+
+The three-year collaboration, funded with $25 million from TechVision, will focus on creating AI models that can predict patient outcomes and recommend personalized treatment plans.
+
+Professor David Kim from Stanford AI Lab will serve as the principal investigator. The research team will include 15 PhD students and post-doctoral researchers. Dr. Rachel Martinez from Massachusetts General Hospital will lead the clinical validation aspects of the research.
+
+Sarah Chen commented: "This collaboration brings together the best minds in AI research and clinical medicine. We believe this will accelerate the development of AI tools that can truly transform patient care."
+
+---

@@ -1,0 +1,131 @@
+[
+  {
+    "doc_id": "DOC_08b692",
+    "source_file": "Company Overview.txt",
+    "doc_type": "COMPANY_OVERVIEW",
+    "created_at": "2026-01-10T17:11:34.744678Z",
+    "text": "TechVision Inc., founded in 2015 by Sarah Chen and Marcus Rodriguez, is a leading artificial intelligence company headquartered in San Francisco, California. The company specializes in developing enterprise AI solutions for healthcare and finance sectors.\n\nSarah Chen, the current CEO, previously worked as a senior researcher at Google AI. Marcus Rodriguez, the CTO, has a background in distributed systems from his time at Amazon Web Services.\n\nTechVision's flagship product, MediScan AI, uses computer vision to analyze medical imaging data. The product was launched in 2018 and has been adopted by over 200 hospitals across North America. MediScan AI achieved FDA approval in 2019.\n\nIn 2022, TechVision raised $150 million in Series C funding led by Sequoia Capital and Andreessen Horowitz. The company's valuation reached $1.2 billion, achieving unicorn status.",
+    "entities_expected": [
+      "Person",
+      "Organization",
+      "Product",
+      "Location"
+    ],
+    "relationships_expected": [
+      "FOUNDED",
+      "WORKS_FOR",
+      "PREVIOUSLY_WORKED_AT",
+      "DEVELOPED",
+      "LOCATED_IN"
+    ]
+  },
+  {
+    "doc_id": "DOC_f23927",
+    "source_file": "Competetive Landscape.txt",
+    "doc_type": "COMPETITIVE_ANALYSIS",
+    "created_at": "2026-01-10T17:11:34.745577Z",
+    "text": "**Industry Analysis Report - November 2024**\n\nThe healthcare AI market has become increasingly competitive, with several major players vying for market share. TechVision Inc. competes primarily with MedAI Solutions and DiagnosticAI Corp.\n\nMedAI Solutions, founded in 2012, currently holds a 30% market share in healthcare AI diagnostics. The company is backed by IBM and has partnerships with over 500 hospitals. Their flagship product, MedAssist, competes directly with TechVision's MediScan AI.\n\nDiagnosticAI Corp, a newer entrant founded in 2018, has raised $200 million in funding from SoftBank Vision Fund. Their product focuses on pathology imaging, a slightly different niche from TechVision's radiology focus.\n\nDespite the competition, TechVision has differentiated itself through superior accuracy rates and strong clinical validation. The company's accuracy in detecting lung cancer is 97%, compared to 92% for MedAI Solutions and 94% for DiagnosticAI Corp, according to independent benchmarks.\n\nMarcus Rodriguez, TechVision's CTO, attributes this advantage to the company's proprietary neural network architecture, which was developed in-house and is protected by 15 patents.",
+    "entities_expected": [
+      "Organization",
+      "Product",
+      "Person"
+    ],
+    "relationships_expected": [
+      "DEVELOPED",
+      "WORKS_FOR"
+    ]
+  },
+  {
+    "doc_id": "DOC_810178",
+    "source_file": "Leadership Changes.txt",
+    "doc_type": "LEADERSHIP_CHANGE",
+    "created_at": "2026-01-10T17:11:34.745577Z",
+    "text": "**Business Wire - January 22, 2024**\n\nTechVision Inc. announced the appointment of Michael Zhang as Chief Revenue Officer (CRO). Zhang brings over 15 years of enterprise sales experience from his previous role as VP of Sales at Salesforce.\n\nIn his new role, Zhang will oversee TechVision's global sales strategy and work closely with CEO Sarah Chen to expand the company's presence in European and Asian markets.\n\nAdditionally, the company promoted Lisa Thompson from Director of Engineering to Vice President of Engineering. Thompson has been with TechVision since 2017 and played a key role in the development of MediScan AI's core algorithms.\n\n---",
+    "entities_expected": [
+      "Person",
+      "Organization"
+    ],
+    "relationships_expected": [
+      "WORKS_FOR",
+      "PREVIOUSLY_WORKED_AT"
+    ]
+  },
+  {
+    "doc_id": "DOC_92fa3a",
+    "source_file": "Market Expansion.txt",
+    "doc_type": "MARKET_EXPANSION",
+    "created_at": "2026-01-10T17:11:34.746624Z",
+    "text": "**Financial Times - July 18, 2024**\n\nTechVision Inc. announced its expansion into the European market with the opening of a new office in London. The office will serve as the company's European headquarters and will house 100 employees by the end of 2025.\n\nEmma Wilson, formerly of DeepMind, has been appointed as Managing Director of European Operations. Wilson will report directly to CRO Michael Zhang.\n\nThe company also secured regulatory approval from the European Medicines Agency (EMA) for MediScan AI, allowing it to be deployed in hospitals across the European Union.\n\nTechVision has already signed initial agreements with three major hospital networks in the UK, Germany, and France, representing a combined market opportunity of €50 million annually.\n\n---",
+    "entities_expected": [
+      "Organization",
+      "Person",
+      "Location"
+    ],
+    "relationships_expected": [
+      "WORKS_FOR",
+      "LOCATED_IN"
+    ]
+  },
+  {
+    "doc_id": "DOC_4e0628",
+    "source_file": "Partnership Announcement.txt",
+    "doc_type": "PARTNERSHIP_PRESS_RELEASE",
+    "created_at": "2026-01-10T17:11:34.746624Z",
+    "text": "**Press Release - March 15, 2023**\n\nTechVision Inc. announced a strategic partnership with HealthCorp International, one of the largest hospital networks in the United States. Under this partnership, HealthCorp will deploy MediScan AI across its 50 hospitals, potentially benefiting over 2 million patients annually.\n\nDr. Jennifer Liu, Chief Medical Officer at HealthCorp, stated: \"MediScan AI's accuracy in detecting early-stage cancers has been remarkable in our pilot studies. This technology will significantly enhance our diagnostic capabilities.\"\n\nThe partnership also includes a joint research initiative focused on developing AI models for rare disease detection. TechVision will invest $10 million in this research program over the next three years.",
+    "entities_expected": [
+      "Organization",
+      "Product"
+    ],
+    "relationships_expected": [
+      "PARTNERED_WITH"
+    ]
+  },
+  {
+    "doc_id": "DOC_e5200b",
+    "source_file": "Product Launch.txt",
+    "doc_type": "PRODUCT_LAUNCH",
+    "created_at": "2026-01-10T17:11:34.747577Z",
+    "text": "**Tech News - September 8, 2023**\n\nTechVision Inc. entered the financial services market with the launch of FinanceGuard, an AI-powered fraud detection system. The product uses machine learning to identify suspicious transaction patterns in real-time.\n\nFinanceGuard was developed by a team led by Dr. Aisha Patel, Vice President of Financial AI at TechVision. Dr. Patel joined the company in 2021 from JPMorgan Chase, where she led the fraud prevention division.\n\nEarly customers include Regional Bank of America and Global Payment Systems Inc. Regional Bank of America reported a 40% reduction in fraudulent transactions within the first quarter of deployment.\n\nThe system processes over 10 million transactions per day and can detect anomalies with 95% accuracy, according to independent testing by Cybersecurity Labs International.\n\n---",
+    "entities_expected": [
+      "Organization",
+      "Product",
+      "Person"
+    ],
+    "relationships_expected": [
+      "DEVELOPED",
+      "WORKS_FOR",
+      "PREVIOUSLY_WORKED_AT"
+    ]
+  },
+  {
+    "doc_id": "DOC_df7f48",
+    "source_file": "Research Collaboration.txt",
+    "doc_type": "RESEARCH_COLLABORATION",
+    "created_at": "2026-01-10T17:11:34.747577Z",
+    "text": "**Academic News - April 3, 2024**\n\nTechVision Inc. has entered into a research collaboration with Stanford University's AI Lab and Massachusetts General Hospital to develop next-generation diagnostic AI tools.\n\nThe three-year collaboration, funded with $25 million from TechVision, will focus on creating AI models that can predict patient outcomes and recommend personalized treatment plans.\n\nProfessor David Kim from Stanford AI Lab will serve as the principal investigator. The research team will include 15 PhD students and post-doctoral researchers. Dr. Rachel Martinez from Massachusetts General Hospital will lead the clinical validation aspects of the research.\n\nSarah Chen commented: \"This collaboration brings together the best minds in AI research and clinical medicine. We believe this will accelerate the development of AI tools that can truly transform patient care.\"\n\n---",
+    "entities_expected": [
+      "Organization",
+      "Person"
+    ],
+    "relationships_expected": [
+      "PARTNERED_WITH",
+      "WORKS_FOR"
+    ]
+  },
+  {
+    "doc_id": "DOC_ed2428",
+    "source_file": "Technology Partnership.txt",
+    "doc_type": "TECHNOLOGY_PARTNERSHIP",
+    "created_at": "2026-01-10T17:11:34.748577Z",
+    "text": "**Tech Insider - October 10, 2024**\n\nCloud computing giant CloudTech Corporation announced a technology partnership with TechVision Inc. Under this agreement, CloudTech will provide the cloud infrastructure for TechVision's AI products, while TechVision will develop specialized AI tools for CloudTech's healthcare customers.\n\nThe partnership leverages CloudTech's HIPAA-compliant cloud platform, which is already used by over 5,000 healthcare organizations globally. TechVision's MediScan AI and future healthcare products will be available through CloudTech's marketplace.\n\nKevin Park, VP of Healthcare Solutions at CloudTech, stated: \"This partnership combines CloudTech's secure infrastructure with TechVision's cutting-edge AI capabilities. Together, we can deliver enterprise-grade AI solutions to healthcare providers of all sizes.\"\n\nThe companies plan to co-develop three new AI-powered diagnostic tools by mid-2025, targeting cardiology, neurology, and oncology specialties.\n\n---",
+    "entities_expected": [
+      "Organization",
+      "Product",
+      "Person"
+    ],
+    "relationships_expected": [
+      "PARTNERED_WITH",
+      "DEVELOPED"
+    ]
+  }
+]

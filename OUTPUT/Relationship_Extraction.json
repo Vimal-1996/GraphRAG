@@ -1,0 +1,425 @@
+[
+    {
+        "rel_id": "REL_f4e7f59c",
+        "doc_id": "DOC_08b692",
+        "source": "Sarah Chen",
+        "source_type": "Person",
+        "relation": "FOUNDED",
+        "target": "TechVision",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_f4e65c9f",
+        "doc_id": "DOC_08b692",
+        "source": "Marcus Rodriguez",
+        "source_type": "Person",
+        "relation": "FOUNDED",
+        "target": "TechVision",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_cc51c3e0",
+        "doc_id": "DOC_08b692",
+        "source": "TechVision",
+        "source_type": "Organization",
+        "relation": "LOCATED_IN",
+        "target": "San Francisco, California",
+        "target_type": "City, State"
+    },
+    {
+        "rel_id": "REL_c0717595",
+        "doc_id": "DOC_08b692",
+        "source": "Sarah Chen",
+        "source_type": "Person",
+        "relation": "PREVIOUSLY_WORKED_AT",
+        "target": "Google AI",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_d5a7a583",
+        "doc_id": "DOC_08b692",
+        "source": "Marcus Rodriguez",
+        "source_type": "Person",
+        "relation": "PREVIOUSLY_WORKED_AT",
+        "target": "Amazon Web Services",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_84a1210f",
+        "doc_id": "DOC_08b692",
+        "source": "TechVision",
+        "source_type": "Organization",
+        "relation": "DEVELOPED",
+        "target": "MediScan AI",
+        "target_type": "Product"
+    },
+    {
+        "rel_id": "REL_164a3f6d",
+        "doc_id": "DOC_08b692",
+        "source": "MediScan AI",
+        "source_type": "Product",
+        "relation": "APPROVED_BY",
+        "target": "FDA",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_d5637a2c",
+        "doc_id": "DOC_08b692",
+        "source": "TechVision",
+        "source_type": "Organization",
+        "relation": "PARTNERED_WITH",
+        "target": "Sequoia Capital",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_60d21e3a",
+        "doc_id": "DOC_08b692",
+        "source": "TechVision",
+        "source_type": "Organization",
+        "relation": "PARTNERED_WITH",
+        "target": "Andreessen Horowitz",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_8c3d492c",
+        "doc_id": "DOC_f23927",
+        "source": "MedAI Solutions",
+        "source_type": "Organization",
+        "relation": "FOUNDED",
+        "target": "2012",
+        "target_type": "Date"
+    },
+    {
+        "rel_id": "REL_56071608",
+        "doc_id": "DOC_f23927",
+        "source": "MedAI Solutions",
+        "source_type": "Organization",
+        "relation": "PARTNERED_WITH",
+        "target": "IBM",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_b92884a8",
+        "doc_id": "DOC_f23927",
+        "source": "MedAI Solutions",
+        "source_type": "Organization",
+        "relation": "DEVELOPED",
+        "target": "MedAssist",
+        "target_type": "Product"
+    },
+    {
+        "rel_id": "REL_604d21c1",
+        "doc_id": "DOC_f23927",
+        "source": "DiagnosticAI Corp",
+        "source_type": "Organization",
+        "relation": "FOUNDED",
+        "target": "2018",
+        "target_type": "Date"
+    },
+    {
+        "rel_id": "REL_c7197bc4",
+        "doc_id": "DOC_f23927",
+        "source": "DiagnosticAI Corp",
+        "source_type": "Organization",
+        "relation": "APPROVED_BY",
+        "target": "SoftBank Vision Fund",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_da2ce78a",
+        "doc_id": "DOC_f23927",
+        "source": "Marcus Rodriguez",
+        "source_type": "Person",
+        "relation": "WORKS_FOR",
+        "target": "TechVision",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_7923d2f0",
+        "doc_id": "DOC_f23927",
+        "source": "TechVision",
+        "source_type": "Organization",
+        "relation": "DEVELOPED",
+        "target": "MediScan AI",
+        "target_type": "Product"
+    },
+    {
+        "rel_id": "REL_3318c8c7",
+        "doc_id": "DOC_810178",
+        "source": "TechVision",
+        "source_type": "Organization",
+        "relation": "APPOINTED_AS",
+        "target": "Michael Zhang",
+        "target_type": "Person"
+    },
+    {
+        "rel_id": "REL_a743c225",
+        "doc_id": "DOC_810178",
+        "source": "Michael Zhang",
+        "source_type": "Person",
+        "relation": "PREVIOUSLY_WORKED_AT",
+        "target": "Salesforce",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_4038bbbb",
+        "doc_id": "DOC_810178",
+        "source": "Michael Zhang",
+        "source_type": "Person",
+        "relation": "WORKS_FOR",
+        "target": "TechVision",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_d3e11c73",
+        "doc_id": "DOC_810178",
+        "source": "TechVision",
+        "source_type": "Organization",
+        "relation": "APPOINTED_AS",
+        "target": "Lisa Thompson",
+        "target_type": "Person"
+    },
+    {
+        "rel_id": "REL_311eca9f",
+        "doc_id": "DOC_810178",
+        "source": "Lisa Thompson",
+        "source_type": "Person",
+        "relation": "WORKS_FOR",
+        "target": "TechVision",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_b2167018",
+        "doc_id": "DOC_810178",
+        "source": "Lisa Thompson",
+        "source_type": "Person",
+        "relation": "DEVELOPED",
+        "target": "MediScan AI",
+        "target_type": "Product"
+    },
+    {
+        "rel_id": "REL_c40b3ff7",
+        "doc_id": "DOC_92fa3a",
+        "source": "TechVision",
+        "source_type": "Organization",
+        "relation": "LOCATED_IN",
+        "target": "London",
+        "target_type": "City"
+    },
+    {
+        "rel_id": "REL_58cbc776",
+        "doc_id": "DOC_92fa3a",
+        "source": "Emma Wilson",
+        "source_type": "Person",
+        "relation": "APPOINTED_AS",
+        "target": "TechVision",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_28d05e1a",
+        "doc_id": "DOC_92fa3a",
+        "source": "Emma Wilson",
+        "source_type": "Person",
+        "relation": "PREVIOUSLY_WORKED_AT",
+        "target": "DeepMind",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_12daa682",
+        "doc_id": "DOC_92fa3a",
+        "source": "Emma Wilson",
+        "source_type": "Person",
+        "relation": "WORKS_FOR",
+        "target": "TechVision",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_98a72da9",
+        "doc_id": "DOC_92fa3a",
+        "source": "TechVision",
+        "source_type": "Organization",
+        "relation": "APPROVED_BY",
+        "target": "European Medicines Agency",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_dd97142f",
+        "doc_id": "DOC_92fa3a",
+        "source": "MediScan AI",
+        "source_type": "Product",
+        "relation": "APPROVED_BY",
+        "target": "European Medicines Agency",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_407309f9",
+        "doc_id": "DOC_4e0628",
+        "source": "TechVision",
+        "source_type": "Organization",
+        "relation": "PARTNERED_WITH",
+        "target": "HealthCorp International",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_b9ce619a",
+        "doc_id": "DOC_4e0628",
+        "source": "HealthCorp International",
+        "source_type": "Organization",
+        "relation": "LOCATED_IN",
+        "target": "United States",
+        "target_type": "Country"
+    },
+    {
+        "rel_id": "REL_7368c101",
+        "doc_id": "DOC_4e0628",
+        "source": "Jennifer Liu",
+        "source_type": "Person",
+        "relation": "WORKS_FOR",
+        "target": "HealthCorp International",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_ffbdba00",
+        "doc_id": "DOC_4e0628",
+        "source": "HealthCorp International",
+        "source_type": "Organization",
+        "relation": "DEVELOPED",
+        "target": "MediScan AI",
+        "target_type": "Product"
+    },
+    {
+        "rel_id": "REL_73bb332a",
+        "doc_id": "DOC_4e0628",
+        "source": "TechVision",
+        "source_type": "Organization",
+        "relation": "COLLABORATES_WITH",
+        "target": "HealthCorp International",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_d8a81158",
+        "doc_id": "DOC_e5200b",
+        "source": "TechVision",
+        "source_type": "Organization",
+        "relation": "DEVELOPED",
+        "target": "FinanceGuard",
+        "target_type": "Product"
+    },
+    {
+        "rel_id": "REL_7408877a",
+        "doc_id": "DOC_e5200b",
+        "source": "Aisha Patel",
+        "source_type": "Person",
+        "relation": "WORKS_FOR",
+        "target": "TechVision",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_0c95ab28",
+        "doc_id": "DOC_e5200b",
+        "source": "Aisha Patel",
+        "source_type": "Person",
+        "relation": "PREVIOUSLY_WORKED_AT",
+        "target": "JPMorgan Chase",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_bf2cc430",
+        "doc_id": "DOC_e5200b",
+        "source": "TechVision",
+        "source_type": "Organization",
+        "relation": "PARTNERED_WITH",
+        "target": "Regional Bank of America",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_1838e185",
+        "doc_id": "DOC_e5200b",
+        "source": "TechVision",
+        "source_type": "Organization",
+        "relation": "PARTNERED_WITH",
+        "target": "Global Payment Systems",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_f3809fa3",
+        "doc_id": "DOC_e5200b",
+        "source": "FinanceGuard",
+        "source_type": "Product",
+        "relation": "APPROVED_BY",
+        "target": "Cybersecurity Labs International",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_eaf8a47d",
+        "doc_id": "DOC_df7f48",
+        "source": "TechVision",
+        "source_type": "Organization",
+        "relation": "PARTNERED_WITH",
+        "target": "Stanford University's AI Lab",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_a04cc8e2",
+        "doc_id": "DOC_df7f48",
+        "source": "TechVision",
+        "source_type": "Organization",
+        "relation": "PARTNERED_WITH",
+        "target": "Massachusetts General Hospital",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_606382c6",
+        "doc_id": "DOC_df7f48",
+        "source": "Professor David Kim",
+        "source_type": "Person",
+        "relation": "WORKS_FOR",
+        "target": "Stanford University's AI Lab",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_c9d25b88",
+        "doc_id": "DOC_df7f48",
+        "source": "Rachel Martinez",
+        "source_type": "Person",
+        "relation": "WORKS_FOR",
+        "target": "Massachusetts General Hospital",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_2edd6203",
+        "doc_id": "DOC_ed2428",
+        "source": "CloudTech",
+        "source_type": "Organization",
+        "relation": "PARTNERED_WITH",
+        "target": "TechVision Inc",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_461d4e05",
+        "doc_id": "DOC_ed2428",
+        "source": "TechVision Inc",
+        "source_type": "Organization",
+        "relation": "DEVELOPED",
+        "target": "TechVision's MediScan AI",
+        "target_type": "Product"
+    },
+    {
+        "rel_id": "REL_411f2e5f",
+        "doc_id": "DOC_ed2428",
+        "source": "TechVision's MediScan AI",
+        "source_type": "Product",
+        "relation": "APPROVED_BY",
+        "target": "CloudTech",
+        "target_type": "Organization"
+    },
+    {
+        "rel_id": "REL_0a094d4d",
+        "doc_id": "DOC_ed2428",
+        "source": "Kevin Park",
+        "source_type": "Person",
+        "relation": "WORKS_FOR",
+        "target": "CloudTech",
+        "target_type": "Organization"
+    }
+]
