@@ -10,20 +10,5 @@ Retrieval-Augmented Generation (RAG)
 Architectural Overview
 =======================
 
-Raw Text Files
-      │
-      ▼
-Document Normalization (JSON)
-      │
-      ▼
-LLM-based Entity & Relationship Extraction
-      │
-      ▼
-Knowledge Graph (Neo4j)
-      │
-      ▼
-Subgraph Retrieval (Entity-centered)
-      │
-      ▼
-LLM Answer Generation (GraphRAG)
+![System Architecture](untitled.png)
 
