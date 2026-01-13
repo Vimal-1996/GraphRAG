@@ -10,5 +10,5 @@ Retrieval-Augmented Generation (RAG)
 Architectural Overview
 =======================
 
-![System Architecture](untitled.png)
+![System Architecture](Untitled.png)
 
